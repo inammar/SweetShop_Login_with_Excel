@@ -1,10 +1,10 @@
-Test Plan
+# **Test Plan**
 
-Project goal - to test Login functionality using Excel sheet for input data.
+**Project goal** - to test Login functionality using Excel sheet for input data.
 
-Scope: - Functional testing.
+**Scope** - functional testing.
 
-Test Environment
+**Test Environment**
 
 • Selenium WebDriver for web UI automation.
 
@@ -14,12 +14,14 @@ Test Environment
 
 • Browser Drivers: ChromeDriver.
 
-Test Scenarios
+**Test Scenarios**
 
-Functional Tests:
+**Functional Tests**
 
 Successful login: enter valid e-mail address and password, verify successful login.
+
 Unsuccessful login: enter invalid e-mail address and password, verify error message.
-Test reports
+
+**Test reports**
 
 Reports of the results are provided in a separate file.
