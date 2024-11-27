@@ -4,7 +4,7 @@
 
 **Scope** - functional testing.
 
-**Test Environment**
+### **Test Environment**
 
 • Selenium WebDriver for web UI automation.
 
@@ -14,7 +14,7 @@
 
 • Browser Drivers: ChromeDriver.
 
-**Test Scenarios**
+### **Test Scenarios**
 
 **Functional Tests**
 
@@ -22,9 +22,9 @@ Successful login: enter valid e-mail address and password, verify successful log
 
 Unsuccessful login: enter invalid e-mail address and password, verify error message.
 
-In this project data used for login provided below:
+The data that will be used in this project is listed in the Excel sheet below:
 
-![image](https://github.com/user-attachments/assets/de4b7fe6-d7cc-4a92-8794-20925d2d78ee)
+![image](https://github.com/user-attachments/assets/a2f7c593-3a5b-4bca-aa97-e1dd49fddc12)
 
 
 
