@@ -1,5 +1,8 @@
 # **Test Plan**
 
+![image](https://github.com/user-attachments/assets/51320093-3c69-4ef1-9133-02cd687d4f62)
+
+
 **Project goal** - to test Login functionality using Excel sheet for input data.
 
 **Scope** - functional testing.
